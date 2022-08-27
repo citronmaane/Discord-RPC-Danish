@@ -1,0 +1,19 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord RPC - til discord.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Max2K | 2022 | marcus.#6969",
+  "license": "ISC",
+  "dependencies": {
+    "discord-rpc": "^4.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
